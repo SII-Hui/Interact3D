@@ -31,3 +31,16 @@
 ![Interact3D ManyPart](asset/ManyComp_1.png) 
 
 ![Interact3D ManyPart](asset/ManyComp_2.png) 
+
+---
+
+## 📜 Citation
+If you find this repository useful in your project, please cite the following work. :)
+```
+@article{shan2026interact3d,
+  title={Interact3D: Compositional 3D Generation of Interactive Objects},
+  author={Shan, Hui and Luo, Keyang and Li, Ming and Zheng, Sizhe and Fu, Yanwei and Chen, Zhen and Huang, Xiangru},
+  journal={arXiv preprint arXiv:2603.16085},
+  year={2026}
+}
+```
