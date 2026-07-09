@@ -1,5 +1,11 @@
 # Interact3D: Compositional 3D Generation of Interactive Objects
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2603.16085">
+    <img src="https://img.shields.io/badge/arXiv-2603.16085-b31b1b.svg" alt="arXiv 2603.16085">
+  </a>
+</p>
+
 ![Interact3D Teaser](asset/teaser.png)
 
 **Interact3D** generates collision-aware compositional 3D assets from a natural-language scene prompt. The pipeline first creates a compositional image and isolated object images, reconstructs them with TRELLIS.2, separates object-level guidance with PartField, and finally registers the generated objects into a physically plausible 3D scene.
