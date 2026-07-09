@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+outputs/
+outputs_demo/
+TRELLIS.2/
+PartField/
+GeoTransformer/
+third_party/
+checkpoints/
+hf_cache/
+*.glb
+*.mp4
+*.ply
+*.npy
+*.blend

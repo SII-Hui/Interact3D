@@ -1,0 +1,42 @@
+{
+  "00001": {
+    "category": "food",
+    "prompt": "A ripe lemon is nestled in a picnic basket, fresh from the market."
+  },
+  "00002": {
+    "category": "apparel",
+    "prompt": "A polished leather wallet is positioned on a hallway bench, prepared for the weekend."
+  },
+  "00003": {
+    "category": "decor",
+    "prompt": "A terracotta pot stands on a windowsill, adding a cozy touch."
+  },
+  "00004": {
+    "category": "kitchenware",
+    "prompt": "A short wooden chopping board is set on a serving trolley."
+  },
+  "00005": {
+    "category": "electronics",
+    "prompt": "An electric fan is positioned on a standing desk."
+  },
+  "00006": {
+    "category": "apparel",
+    "prompt": "A cream leather satchel rests in a laundry basket, packed for a short trip."
+  },
+  "00007": {
+    "category": "kitchenware",
+    "prompt": "A tea strainer is set on a serving trolley."
+  },
+  "00008": {
+    "category": "apparel",
+    "prompt": "A pair of canvas shoes rests on a shoe rack."
+  },
+  "00009": {
+    "category": "food",
+    "prompt": "An ear of corn sits in a ceramic bowl."
+  },
+  "00010": {
+    "category": "electronics",
+    "prompt": "A navy printer sits next to a picture frame."
+  }
+}

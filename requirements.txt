@@ -1,0 +1,6 @@
+Pillow>=10.3.0
+google-genai>=1.0.0
+numpy>=1.26.0
+scipy>=1.11.0
+trimesh>=4.4.0
+rtree>=1.2.0
