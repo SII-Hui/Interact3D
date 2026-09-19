@@ -4,6 +4,9 @@
   <a href="https://arxiv.org/abs/2603.16085">
     <img src="https://img.shields.io/badge/arXiv-2603.16085-b31b1b.svg" alt="arXiv 2603.16085">
   </a>
+  <a href="https://huggingface.co/datasets/Hui-S-02/Interact3D_assets">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow" alt="Hugging Face Dataset">
+  </a>
 </p>
 
 ![Interact3D Teaser](asset/teaser.png)
